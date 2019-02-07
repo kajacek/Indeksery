@@ -16,15 +16,12 @@ namespace Indeksery
             names[1] = "Aśka";
             names[2] = "Krzyś";
 
-            //for (int i = 0; i < names.Count; i++)
-            //{
-            //    Console.WriteLine(names[i]);
-            //}
-
             for (int i = 0; i < names.Count; i++)
             {
                 Console.WriteLine(names[i]);
             }
+
+            names[
 
             Console.Read();
         }
